@@ -25,6 +25,9 @@ doing about it* — and automate the response so protection doesn't add to your 
 Our platform spans threat detection, access control, and network security — Data Leakage
 Prevention is one capability within a broader 360° approach.
 
+> **Our mission:** leverage technology to serve and grow with businesses of every size —
+> making enterprise-grade protection simple, intelligent, and accessible.
+
 ### The platform
 
 | Product | What it does |
@@ -71,6 +74,16 @@ Security software has to earn trust, so we ship the receipts: **CodeQL** SAST, *
 Scorecard**, **SLSA** build provenance, **Sigstore**-signed releases, **reproducible agent
 builds**, and a published **CycloneDX SBOM** on every release.
 
+## From the blog
+
+Practical security guidance for lean teams — [more on shieldnet360.com](https://shieldnet360.com/resources/blog):
+
+- [EDR vs MDR: which should an SME choose?](https://shieldnet360.com/resources/blog/edr-vs-mdr-which-should-an-sme-choose-en-950)
+- [Account Takeover Prevention: A Practical Guide for SMEs](https://shieldnet360.com/resources/blog/account-takeover-prevention-a-practical-guide-for-smes-en-1138)
+- [What Are Shared Password Security Risks? An SME IT Guide](https://shieldnet360.com/resources/blog/what-are-shared-passwords-security-risks-sme-it-guide-en-1137)
+- [How to Prevent Insider Threats with Smarter Access Controls](https://shieldnet360.com/resources/blog/how-to-prevent-insider-threats-with-smarter-access-controls-en-958)
+- [Incident triage for lean teams: prioritize what matters fast](https://shieldnet360.com/resources/blog/incident-triage-for-lean-teams-prioritize-what-matters-fast-en-967)
+
 ## Repositories
 
 - **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — the open-source DLP agent, extension, and desktop app.
@@ -85,7 +98,7 @@ and [report security issues responsibly](https://github.com/ShieldNet-360/secure
 <div align="center">
   <sub>
 
-  [shieldnet360.com](https://shieldnet360.com) · [Documentation](https://shieldnet-360.github.io/secure-edge-dlp/) · MIT Licensed
+  [Website](https://shieldnet360.com) · [Documentation](https://shieldnet-360.github.io/secure-edge-dlp/) · [LinkedIn](https://www.linkedin.com/showcase/shieldnet360) · [X](https://x.com/ShieldNet360) · [Facebook](https://www.facebook.com/ShieldNet360/) · MIT Licensed
 
   </sub>
 </div>
