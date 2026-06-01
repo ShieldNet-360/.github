@@ -3,10 +3,11 @@
 
   # ShieldNet 360
 
-  **Privacy-first, open-source security for the AI era.**
+  **Security made simple.**
 
-  We build endpoint protection that keeps sensitive data on the device — stopping
-  secrets and PII from leaking into AI tools, without shipping your activity to the cloud.
+  We take the complexity out of cybersecurity so business owners and lean IT teams
+  can stay protected without a dedicated security team — and we open-source the
+  privacy-first engine that powers it.
 
   [![Website](https://img.shields.io/badge/website-shieldnet360.com-2b6cb0)](https://shieldnet360.com)
   [![Docs](https://img.shields.io/badge/docs-online-blue)](https://shieldnet-360.github.io/secure-edge-dlp/)
@@ -16,14 +17,27 @@
 
 ---
 
-## What we build
+## What we do
 
-ShieldNet 360 is an open-source security project focused on **Data Leakage Prevention (DLP)
-for the age of AI assistants**. As employees paste code, credentials, and customer data into
-chatbots and AI tools, the boundary that used to be "our network" is now "every browser tab."
-Our software moves that control point back to the endpoint — and keeps it private.
+ShieldNet 360 is a cybersecurity company built for the people who don't have a SOC.
+We explain security in plain language — *what happened, why it matters, and what we're
+doing about it* — and automate the response so protection doesn't add to your workload.
+Our platform spans threat detection, access control, and network security — Data Leakage
+Prevention is one capability within a broader 360° approach.
 
-## Flagship: Secure Edge
+### The platform
+
+| Product | What it does |
+|---------|--------------|
+| **[ShieldNet Defense](https://shieldnet360.com/products/defense)** | AI-powered 24/7 detection & response — automatically detects, analyzes, and stops malware, exploits, and unauthorized access. *"Handle cyber threats in a smart and simple way."* |
+| **[ShieldNet Access](https://shieldnet360.com/products/access)** | Identity & access management — verifies user, device, and conditions so only the right people reach the right systems, and keeps everything else hidden. *"The right people. The right access. No extra work."* |
+| **[ShieldNet Gateway](https://shieldnet360.com/products/gateway)** | Network security — a protective barrier around your traffic that filters malicious content and keeps sensitive data private. *"Browse, work, and connect without worrying about what's lurking online."* |
+
+Integrates with the tools you already run — AWS, GCP, Microsoft 365, Google Workspace, and Kubernetes.
+
+## Open source: Secure Edge
+
+The privacy-first DLP engine behind our platform is open source.
 
 **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — a privacy-first DLP
 agent for desktop. It blocks unauthorized AI tools at the DNS layer and inspects content sent
@@ -59,7 +73,7 @@ builds**, and a published **CycloneDX SBOM** on every release.
 
 ## Repositories
 
-- **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — the DLP agent, extension, and desktop app.
+- **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — the open-source DLP agent, extension, and desktop app.
 - **[secure-edge](https://github.com/ShieldNet-360/secure-edge)** — supporting project.
 
 ## Get involved
