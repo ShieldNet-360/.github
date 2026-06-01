@@ -5,9 +5,10 @@
 
   **Security made simple.**
 
-  We take the complexity out of cybersecurity so business owners and lean IT teams
-  can stay protected without a dedicated security team — and we open-source the
-  privacy-first engine that powers it.
+  A cybersecurity suite delivering 360-degree protection through a single design
+  principle: **simple and human**. We take the complexity out of security so business
+  owners and lean IT teams stay protected without a dedicated security team — and we
+  open-source the privacy-first engine that powers it.
 
   [![Website](https://img.shields.io/badge/website-shieldnet360.com-2b6cb0)](https://shieldnet360.com)
   [![Docs](https://img.shields.io/badge/docs-online-blue)](https://shieldnet-360.github.io/secure-edge-dlp/)
@@ -19,11 +20,12 @@
 
 ## What we do
 
-ShieldNet 360 is a cybersecurity company built for the people who don't have a SOC.
-We explain security in plain language — *what happened, why it matters, and what we're
-doing about it* — and automate the response so protection doesn't add to your workload.
-Our platform spans threat detection, access control, and network security — Data Leakage
-Prevention is one capability within a broader 360° approach.
+ShieldNet 360 integrates baseline controls and automation directly into the workflows you
+already run — converting security from a siloed risk surface into operational infrastructure
+for growth, without heavy tooling or in-house engineering overhead. We explain what happened,
+why it matters, and what we're doing about it, in plain language. Data Leakage Prevention is
+one capability within a broader 360° approach spanning threat detection, access control, and
+network security.
 
 > **Our mission:** leverage technology to serve and grow with businesses of every size —
 > making enterprise-grade protection simple, intelligent, and accessible.
@@ -38,9 +40,19 @@ Prevention is one capability within a broader 360° approach.
 
 Integrates with the tools you already run — AWS, GCP, Microsoft 365, Google Workspace, and Kubernetes.
 
-## Open source: Secure Edge
+## Open source
 
-The privacy-first DLP engine behind our platform is open source.
+Our open-source initiative extends that same principle — *security made simple* — into
+AI-embedded workflows. It's a self-hosted toolkit that adds independent security checks at the
+**point of egress**, so engineering and vibe-coding teams can build on AI copilots and low-code
+platforms **without** leaking proprietary data through prompts, commits, or public deploys — and
+**without** shipping the flaws AI-generated code can introduce. Each module installs a default
+protection layer, runs policy checks at the source, and writes audit logs on demand — all
+without blocking developer pipelines.
+
+**Open by default. Transparent by design. Integrated into developer-native workflows.**
+
+### Flagship: Secure Edge
 
 **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — a privacy-first DLP
 agent for desktop. It blocks unauthorized AI tools at the DNS layer and inspects content sent
@@ -86,8 +98,7 @@ Practical security guidance for lean teams — [more on shieldnet360.com](https:
 
 ## Repositories
 
-- **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — the open-source DLP agent, extension, and desktop app.
-- **[secure-edge](https://github.com/ShieldNet-360/secure-edge)** — supporting project.
+- **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — the open-source DLP agent, browser extension, and desktop app.
 
 ## Get involved
 
