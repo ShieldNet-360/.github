@@ -11,9 +11,9 @@
   open-source the privacy-first engine that powers it.
 
   [![Website](https://img.shields.io/badge/website-shieldnet360.com-2b6cb0)](https://shieldnet360.com)
-  [![Docs](https://img.shields.io/badge/docs-online-blue)](https://shieldnet-360.github.io/secure-edge-dlp/)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ShieldNet-360/secure-edge-dlp/blob/main/LICENSE)
-  [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ShieldNet-360/secure-edge-dlp/badge)](https://scorecard.dev/viewer/?uri=github.com/ShieldNet-360/secure-edge-dlp)
+  [![Docs](https://img.shields.io/badge/docs-online-blue)](https://shieldnet-360.github.io/prompt-gate/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ShieldNet-360/prompt-gate/blob/main/LICENSE)
+  [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ShieldNet-360/prompt-gate/badge)](https://scorecard.dev/viewer/?uri=github.com/ShieldNet-360/prompt-gate)
 </div>
 
 ---
@@ -52,9 +52,9 @@ without blocking developer pipelines.
 
 **Open by default. Transparent by design. Integrated into developer-native workflows.**
 
-### Flagship: Secure Edge
+### Flagship: Prompt Gate
 
-**[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — a privacy-first DLP
+**[prompt-gate](https://github.com/ShieldNet-360/prompt-gate)** — a privacy-first DLP
 agent for desktop. It blocks unauthorized AI tools at the DNS layer and inspects content sent
 to approved tools through a multi-layer detection pipeline, all on-device.
 
@@ -63,7 +63,7 @@ to approved tools through a multi-layer detection pipeline, all on-device.
 - **Adversary-resistant matching** — normalizes away homoglyphs, zero-width characters, and
   base64 encoding that humans and LLMs use to sneak a secret past a regex.
 - **Zero data persistence** — only aggregate counters and policy ever touch disk. No URLs,
-  domains, IPs, or match contents are ever logged. ([privacy audit](https://github.com/ShieldNet-360/secure-edge-dlp/blob/main/docs/PRIVACY-AUDIT-v0.8.0.md))
+  domains, IPs, or match contents are ever logged. ([privacy & data handling](https://github.com/ShieldNet-360/prompt-gate/blob/main/docs/PRIVACY-AUDIT.md))
 - **Cross-platform** — macOS, Windows, and Linux.
 
 | Component | What it does |
@@ -75,10 +75,10 @@ to approved tools through a multi-layer detection pipeline, all on-device.
 ### Try it in 30 seconds
 
 ```bash
-go install github.com/ShieldNet-360/secure-edge-dlp/agent/cmd/edge-dlp@latest
+go install github.com/ShieldNet-360/prompt-gate/agent/cmd/prompt-gate@latest
 ```
 
-Or grab a signed installer from the [latest release](https://github.com/ShieldNet-360/secure-edge-dlp/releases).
+Or grab a signed installer from the [latest release](https://github.com/ShieldNet-360/prompt-gate/releases).
 
 ## Built to be trusted
 
@@ -98,18 +98,18 @@ Practical security guidance for lean teams — [more on shieldnet360.com](https:
 
 ## Repositories
 
-- **[secure-edge-dlp](https://github.com/ShieldNet-360/secure-edge-dlp)** — the open-source DLP agent, browser extension, and desktop app.
+- **[prompt-gate](https://github.com/ShieldNet-360/prompt-gate)** — the open-source DLP agent, browser extension, and desktop app.
 
 ## Get involved
 
 We welcome contributions — new detection patterns and domain lists are a great first PR. See
-the [contributing guide](https://github.com/ShieldNet-360/secure-edge-dlp/blob/main/CONTRIBUTING.md)
-and [report security issues responsibly](https://github.com/ShieldNet-360/secure-edge-dlp/blob/main/SECURITY.md).
+the [contributing guide](https://github.com/ShieldNet-360/prompt-gate/blob/main/CONTRIBUTING.md)
+and [report security issues responsibly](https://github.com/ShieldNet-360/prompt-gate/blob/main/SECURITY.md).
 
 <div align="center">
   <sub>
 
-  [Website](https://shieldnet360.com) · [Documentation](https://shieldnet-360.github.io/secure-edge-dlp/) · [LinkedIn](https://www.linkedin.com/showcase/shieldnet360) · [X](https://x.com/ShieldNet360) · [Facebook](https://www.facebook.com/ShieldNet360/) · MIT Licensed
+  [Website](https://shieldnet360.com) · [Documentation](https://shieldnet-360.github.io/prompt-gate/) · [LinkedIn](https://www.linkedin.com/showcase/shieldnet360) · [X](https://x.com/ShieldNet360) · [Facebook](https://www.facebook.com/ShieldNet360/) · MIT Licensed
 
   </sub>
 </div>
