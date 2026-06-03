@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/276850807?v=4" width="120" alt="ShieldNet 360" />
+  <img src="https://raw.githubusercontent.com/ShieldNet-360/.github/main/profile/assets/shieldnet360-mark.png" width="110" alt="ShieldNet 360" />
 
   # ShieldNet 360
 
