@@ -11,6 +11,7 @@
   open-source the privacy-first engine that powers it.
 
   [![Website](https://img.shields.io/badge/website-shieldnet360.com-2b6cb0)](https://shieldnet360.com)
+  [![Contact](https://img.shields.io/badge/contact-support%40shieldnet360.com-0a84ff)](mailto:support@shieldnet360.com)
   [![Docs](https://img.shields.io/badge/docs-online-blue)](https://shieldnet-360.github.io/prompt-gate/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ShieldNet-360/prompt-gate/blob/main/LICENSE)
   [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ShieldNet-360/prompt-gate/badge)](https://scorecard.dev/viewer/?uri=github.com/ShieldNet-360/prompt-gate)
@@ -106,10 +107,22 @@ We welcome contributions — new detection patterns and domain lists are a great
 the [contributing guide](https://github.com/ShieldNet-360/prompt-gate/blob/main/CONTRIBUTING.md)
 and [report security issues responsibly](https://github.com/ShieldNet-360/prompt-gate/blob/main/SECURITY.md).
 
+## Contact
+
+| | |
+|---|---|
+| 🌐 **Website** | [shieldnet360.com](https://shieldnet360.com) |
+| ✉️ **General** | [support@shieldnet360.com](mailto:support@shieldnet360.com) |
+| 🔐 **Security** | [report a vulnerability](https://github.com/ShieldNet-360/prompt-gate/blob/main/SECURITY.md) — please don't open public issues |
+| 📚 **Docs** | [shieldnet-360.github.io/prompt-gate](https://shieldnet-360.github.io/prompt-gate/) |
+| 💼 **LinkedIn** | [showcase/shieldnet360](https://www.linkedin.com/showcase/shieldnet360) |
+| 𝕏 **X** | [@ShieldNet360](https://x.com/ShieldNet360) |
+| 📘 **Facebook** | [ShieldNet360](https://www.facebook.com/ShieldNet360/) |
+
 <div align="center">
   <sub>
 
-  [Website](https://shieldnet360.com) · [Documentation](https://shieldnet-360.github.io/prompt-gate/) · [LinkedIn](https://www.linkedin.com/showcase/shieldnet360) · [X](https://x.com/ShieldNet360) · [Facebook](https://www.facebook.com/ShieldNet360/) · MIT Licensed
+  [Website](https://shieldnet360.com) · [support@shieldnet360.com](mailto:support@shieldnet360.com) · [Documentation](https://shieldnet-360.github.io/prompt-gate/) · [LinkedIn](https://www.linkedin.com/showcase/shieldnet360) · [X](https://x.com/ShieldNet360) · [Facebook](https://www.facebook.com/ShieldNet360/) · MIT Licensed
 
   </sub>
 </div>
