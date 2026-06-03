@@ -94,7 +94,7 @@ We welcome contributions — new detection patterns and domain lists are a great
 | 🌐 **Website** | [shieldnet360.com](https://shieldnet360.com) |
 | ✉️ **Email** | [support@shieldnet360.com](mailto:support@shieldnet360.com) |
 | 💼 **LinkedIn** | [showcase/shieldnet360](https://www.linkedin.com/showcase/shieldnet360) |
-| 𝕏 **X** | [@ShieldNet360](https://x.com/ShieldNet360) |
+| **𝕏** | [@ShieldNet360](https://x.com/ShieldNet360) |
 | 📘 **Facebook** | [ShieldNet360](https://www.facebook.com/ShieldNet360/) |
 
 <div align="center">
